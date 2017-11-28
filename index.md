@@ -1,4 +1,4 @@
-## Mightymedia
+## 변경 이력
 
 <ul>
   {% for post in site.posts %}
